@@ -1,0 +1,4 @@
+To install the LabVIEW runtime for LV18 32 bits, please download it from the link below ö
+https://www.ni.com/fr-ch/support/downloads/software-products/download.labview.html#309627
+
+it is free to download and use but zou have to make an NI account to download it.
